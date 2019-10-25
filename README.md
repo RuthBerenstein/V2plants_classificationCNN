@@ -1,5 +1,5 @@
 # V2plants_classificationCNN
-Plants images classification.
+Plant images classification.
  
 Building a Convolutional Neural Network (CNN) to classify the correct specie.
 
